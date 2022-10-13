@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @S-Shanmathi
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on instagram 
-- 📫 How to reach me insta - @shanmathi._.s
+- 👋 Hi, I’m @S-Shanmathi  
+- 👀 I’m interested in Development
+- 🌱 I’m currently into ASP.NET
+- 📫 How to reach me .....
 
 <!---
 S-Shanmathi/S-Shanmathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
