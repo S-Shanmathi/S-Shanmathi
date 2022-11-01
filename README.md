@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @S-Shanmathi  
 - 👀 I’m interested in Development
 - 🌱 I’m currently into ASP.NET
-- 📫 How to reach me .....
+- 📫 How to reach me https://dev.to/shanmathi
 
 <!---
 S-Shanmathi/S-Shanmathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
